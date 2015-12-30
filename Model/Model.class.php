@@ -173,7 +173,7 @@ class Model{
     /*
      * return array
      */
-    public function sleect(){
+    public function select(){
         $sql = 'select * from '.$this->table;
         return $this->db->getAll($sql);
     }
