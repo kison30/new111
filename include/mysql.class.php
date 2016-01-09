@@ -4,14 +4,7 @@
  * User: kison
  * Date: 2015/12/16
  * Time: 20:52
- *
-/****
-燕十八 公益PHP讲堂
-
-论  坛: http://www.zixue.it
-微  博: http://weibo.com/Yshiba
-YY频道: 88354001
- ****/
+ */
 
 
 

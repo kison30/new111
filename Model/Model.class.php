@@ -185,4 +185,7 @@ class Model{
         $sql = 'select * from ' . $this->table .'where id = ' .$id;
         return $this->db->getRow($sql);
     }
+    public function insert_id(){
+        return $this->db->insert_id();
+    }
 }
